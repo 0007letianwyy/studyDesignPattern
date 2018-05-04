@@ -1,4 +1,6 @@
-package com.knight.proxyPattern;
+package com.knight.proxyPattern.simpleProxy;
+
+import com.knight.proxyPattern.IGamePlayer;
 
 /**
  * @Author: knight
